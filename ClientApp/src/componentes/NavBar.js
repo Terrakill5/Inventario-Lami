@@ -31,7 +31,7 @@ const NavBar = () => {
                 <div className="sidebar-brand-icon">
                     <i className="fas fa-desktop"></i>
                 </div>
-                <div className="sidebar-brand-text mx-3">Mi Tienda</div>
+                <div className="sidebar-brand-text mx-3">Tienda de Jose</div>
             </Link>
 
 

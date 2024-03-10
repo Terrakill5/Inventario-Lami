@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "bootstrap": "^4.6.0",
+    "chart.js": "^3.9.1",
     "http-proxy-middleware": "^0.19.1",
     "jquery": "^3.5.1",
     "merge": "^2.1.1",
